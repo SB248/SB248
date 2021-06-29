@@ -18,6 +18,8 @@
 - C++
 - Python
 
+   ![C](https://img.shields.io/badge/-A8B9cc?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
 ### Interesting IT
 - 사물인터넷 (IoT, Internet of Things)   
 - 임베디드 시스템 (Embedded System)    
