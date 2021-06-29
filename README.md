@@ -1,15 +1,6 @@
-
-
-# profile
-
-### name
-- S-BB20
-
--------------
 ### Education
 - 성결대학교 (재학중)
 
--------------
 
 ### study
 - C Programing    
