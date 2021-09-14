@@ -1,9 +1,10 @@
 ### name
 - S-BB20
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seulbi0108">
+
 ### Education
 - 성결대학교 (재학중)
-
 
 ### study
 - C Programing    
@@ -11,6 +12,7 @@
 
    ![C](https://img.shields.io/badge/-A8B9cc?style=flat-square&logo=C&logoColor=white) ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=S-BB20" height="165">
 
 ### Interesting language
 - C   
