@@ -10,7 +10,7 @@
 - C Programing    
 - C++
 
-   ![C](https://img.shields.io/badge/-A8B9cc?style=flat-square&logo=C&logoColor=white) ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+   ![C](https://img.shields.io/badge/-A8B9cc?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ### Interesting language
 - C   
