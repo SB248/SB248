@@ -1,5 +1,5 @@
 ### name
-- S-BB20
+- SB
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seulbi0108">
 
